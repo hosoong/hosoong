@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=HosongGit&fontSize=90)
 
+<img src="https://img.shields.io/badge/flutter-02569B?style=for-
+the-badge&logo=기술스택아이콘&logoColor=white">
 <!--
 **hosoong/hosoong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
